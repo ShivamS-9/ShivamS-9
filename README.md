@@ -5,14 +5,22 @@
 ---
 
 ## 🌟 **About Me**  
-🎓 **Dual Degree Student** at **IIIT Hyderabad**  
-🎓 **B.Tech in Computer Science** | 🎓 **M.S. in Computational Human Sciences**  
 
-- 💡 Exploring the intersection of **technology, fitness, and well-being** through my research.  
-- 🔍 Interested in **Machine Learning**, **Human-Computer Interaction**, and **system design**.  
-- 🎮 Developer of creative projects like the [Kahooa Board Game](https://github.com/ShivamS-9/vulture-vs-crows-game-kaooa-).  
-- 🌟 Always open to collaborations on exciting projects that solve real-world problems!  
+Hi! I’m **Shivam Singh**, a passionate technologist and lifelong learner currently pursuing a **Dual Degree at IIIT Hyderabad**. My journey combines the technical rigor of **Computer Science** with the exploratory depth of **Computational Human Sciences**, where I dive deep into how technology shapes human experiences and well-being.  
 
+My academic interests span a wide spectrum:  
+- 💡 **Human-Computer Interaction (HCI)**: Exploring how interfaces and technology influence human behavior, with a focus on fitness and well-being.  
+- 🤖 **Machine Learning and AI**: Developing models that solve real-world problems while understanding their societal impact.  
+- 🛠️ **System Design and Development**: From building robust networking solutions to designing engaging user experiences in game development.  
+
+As a researcher, I’m currently investigating how **fitness technology** impacts perceptions of health, well-being, and body image. This includes exploring the role of **gamification**, **cultural influences**, and **biases in tech**. My work is a mix of building tech, studying its sociological effects, and collaborating with experts to shape meaningful solutions.  
+
+When I’m not coding or diving into research papers, you’ll find me:  
+- Sipping on a perfect cup of **coffee** ☕, brainstorming my next project.  
+- Enthusiastically following the latest in **F1 racing** 🏎️ and admiring the strategy and precision of motorsport.  
+- Geeking out over **sports** 🏀⚽—whether it’s playing, watching, or analyzing the games that inspire me.  
+
+I love connecting with people who share similar passions for **technology**, **sports**, or just creating cool stuff. Feel free to explore my projects, contribute, or just drop a hello—let’s build something amazing together!  
 ---
 
 ## 💻 **Tech Stack**  
@@ -43,7 +51,7 @@
 ---
 
 ## 🌐 **Get in Touch**  
-- 🐦 Twitter: [@your_handle](https://twitter.com/your_handle)  
+- 🐦 Instagram: [@your_handle](https://twitter.com/your_handle)  
 - 💼 LinkedIn: [Shivam Singh](https://linkedin.com/in/yourprofile)  
 - 📧 Email: [shivamsingh@example.com](mailto:shivamsingh@example.com)  
 
