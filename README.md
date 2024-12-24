@@ -22,6 +22,7 @@ When I’m not coding or diving into research papers, you’ll find me:
 
 I love connecting with people who share similar passions for **technology**, **sports**, or just creating cool stuff. Feel free to explore my projects, contribute, or just drop a hello—let’s build something amazing together!  
 
+[![](https://komarev.com/ghpvc/?username=ShivamS-9)](https://komarev.com/ghpvc/?username=ShivamS-9)
 ---
 
 ## 💻 **Tech Stack**
