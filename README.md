@@ -40,10 +40,21 @@ I love connecting with people who share similar passions for **technology**, **s
 ---
 
 ## 🔗 **Get in Touch**  
-- 🌐 **Website**: [Shivam Singh Portfolio](https://shivams-9.github.io/)
-- 📷 **Instagram**: [dragon.00.9](https://www.instagram.com/dragon.00.9)  
-- 💼 **LinkedIn**: [Shivam Singh](https://www.linkedin.com/in/shivam-singh9204/)  
-- 📧 **Email**: [shivam.singh.iiit@gmail.com](mailto:shivam.singh.iiit@gmail.com)
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://shivams-9.github.io/" target="_blank" title="Website">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" style="width: 40px; height: 40px;">
+  </a>
+  <a href="https://www.instagram.com/dragon.00.9" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="width: 40px; height: 40px;">
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-singh9204/" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+  </a>
+  <a href="mailto:shivam.singh.iiit@gmail.com" title="Email">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="Email" style="width: 40px; height: 40px;">
+  </a>
+</div>
+
 
 ---
 
