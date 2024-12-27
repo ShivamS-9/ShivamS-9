@@ -39,7 +39,8 @@ I love connecting with people who share similar passions for **technology**, **s
 
 ---
 
-## 🌐 **Get in Touch**  
+## 🔗 **Get in Touch**  
+- 🌐 **Website**: [Shivam Singh Portfolio](https://shivams-9.github.io/)
 - 📷 **Instagram**: [dragon.00.9](https://www.instagram.com/dragon.00.9)  
 - 💼 **LinkedIn**: [Shivam Singh](https://www.linkedin.com/in/shivam-singh9204/)  
 - 📧 **Email**: [shivam.singh.iiit@gmail.com](mailto:shivam.singh.iiit@gmail.com)
